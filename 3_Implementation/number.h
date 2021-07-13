@@ -8,5 +8,6 @@
 #include"unity.h"
 int bin_to_dec(char *s);
 int hex_to_dec(char *s);
+int oct_to_dec(int x);
 
 #endif
