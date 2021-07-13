@@ -1,4 +1,4 @@
-name: BuildAndTest
+name: BUILD
 
 on:
   push:
@@ -13,7 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make Test_Number
-      run: make Test_Number -C
-3_implementation/
-   
+      
+    - name: make all
+      run:  make all -C 3_Implementation/
