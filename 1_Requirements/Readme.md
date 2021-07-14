@@ -30,7 +30,16 @@ By giving the right number user can convert.
 ## High Level Requirements
 ID       |              	Description	                                                         |    Status (Implemented/Future) |
 ---------|------------------------------------------------------------------------------------|--------------------------------|
-HR01	    |             User shall be able to perform Binary conversion Operations             |  	     Implemented             | 
-HR02	    |             User shall be able to perform hexadecimal conversion operations	       |         Implemented            |
-HR03	    |             User shall be able to perform octal conversion Operations	             |        Implemented             |
+01	    |             User shall be able to perform Binary conversion Operations             |  	     Implemented             | 
+02	    |             User shall be able to perform hexadecimal conversion operations	       |         Implemented            |
+03	    |             User shall be able to perform octal conversion Operations	             |        Implemented             |
 ## Low level Requirements|
+
+
+
+ID     |                	Description                                                                             |
+-------|---------------------------------------------------------------------------------------------------------|
+1	     |     A page will be open where users can see the name of the conversions.	                               | 
+2	     |    The users can select the preferred calculation from the list given or may choose all the conversions |       
+3	     |    After that the students can choose the conversion and enter the number to be converted.	             | 
+4	     |    The calculated results will be generated.	                                                                               
