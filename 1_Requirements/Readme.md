@@ -10,7 +10,17 @@ Hexadecimal Number – Base 16 – N16
 
 ## Number System Conversion Methods
 Number system conversions deal with the operations to change the base of the numbers. For example, to change a decimal number with base 10 to binary number with base 2. We can also perform the arithmetic operations like addition, subtraction, multiplication on the number system.
-
+# SWOT
+## Strengths:
+   User friendly.
+   It can convert given binary hexadecimal and octal to decimal.
+   Error check is also provided.
+## Weakness
+    Only numbers from other base system can be converted to decimal
+## Opportunities:
+     Can be implemented to convert remaining base system to desired base system number.
+## Threats
+    Designing should be modified.
 ## 4W's and 1'H
 ## Who
 Any user can use this project for performing calculations quickly.
