@@ -2,9 +2,9 @@ name:  Git Inspector
 
 on:
   push:
-    branches: [ testing_file ]
+    branches: [ main ]
   pull_request:
-    branches: [ testing_file ]
+    branches: [ main ]
 
 jobs:
   inspect:
