@@ -28,8 +28,9 @@ By giving the right number user can convert.
 
 # Detail Requirements
 ## High Level Requirements
-ID       |              	Description	                                                         |    Status (Implemented/Future)
-HR01	    |             User shall be able to perform Binary conversion Operations             |  	     Implemented
-HR02	    |             User shall be able to perform hexadecimal conversion operations	       |         Implemented
-HR03	    |             User shall be able to perform octal conversion Operations	             |        Implemented
+ID       |              	Description	                                                         |    Status (Implemented/Future) |
+---------|------------------------------------------------------------------------------------|--------------------------------|
+HR01	    |             User shall be able to perform Binary conversion Operations             |  	     Implemented             | 
+HR02	    |             User shall be able to perform hexadecimal conversion operations	       |         Implemented            |
+HR03	    |             User shall be able to perform octal conversion Operations	             |        Implemented             |
 ## Low level Requirements|
