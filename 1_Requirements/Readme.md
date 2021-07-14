@@ -24,3 +24,12 @@ User can use at any time for performing calculations.
 This Project can be used by the users at anywhere with a computer having windows or linux Operating system.
 ## How
 By giving the right number user can convert.
+
+
+# Detail Requirements
+## High Level Requirements
+ID       |              	Description	                                                         |    Status (Implemented/Future)
+HR01	    |             User shall be able to perform Binary conversion Operations             |  	     Implemented
+HR02	    |             User shall be able to perform hexadecimal conversion operations	       |         Implemented
+HR03	    |             User shall be able to perform octal conversion Operations	             |        Implemented
+## Low level Requirements|
