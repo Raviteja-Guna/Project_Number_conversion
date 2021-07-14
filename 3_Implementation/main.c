@@ -1,7 +1,7 @@
 #include "number.h"
 int main() {
     int choice;
-    printf("Enter");
+    printf("Enter the choice");
     scanf("%d",&choice);
 switch(choice) {
 case 1:
