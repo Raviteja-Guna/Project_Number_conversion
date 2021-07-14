@@ -8,3 +8,4 @@
 [![Git Inspector](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/GitInspector.yml/badge.svg)](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/GitInspector.yml)|
 [![Unit Testing - Unity](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/unity.yml/badge.svg)](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/unity.yml) |
 [![C/C++ CI](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/build.yml/badge.svg)](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/build.yml) |
+[![Static_Code_Analysis](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/staticCode.yml/badge.svg)](https://github.com/Raviteja-Guna/Project_Number_conversion/actions/workflows/staticCode.yml)
